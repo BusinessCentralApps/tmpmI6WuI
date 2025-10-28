@@ -1,8 +1,9 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/aefefe4faa4833e44b1e4405e72050e7e819b3a9/.Modules/settings.schema.json",
   "MicrosoftTelemetryConnectionString": "",
   "templateUrl": "https://github.com/businesscentralapps/tmpkmFrWm-PTE@main",
   "useCompilerFolder": true,
   "type": "PTE",
   "doNotPublishApps": true,
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/aefefe4faa4833e44b1e4405e72050e7e819b3a9/.Modules/settings.schema.json"
+  "templateSha": "f5d7d5ae09cf032c3d7c41cbdc1b35d52a802177"
 }
