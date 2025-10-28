@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/aefefe4faa4833e44b1e4405e72050e7e819b3a9/.Modules/settings.schema.json",
+  "artifact": "////nextminor",
+  "cacheImageName": "",
+  "versioningStrategy": 15
+}
